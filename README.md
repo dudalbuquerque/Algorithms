@@ -3,13 +3,15 @@
 Este repositório contém implementações de alguns algoritmos em C++, questões e exercícios resolvidos durante a disciplina Algoritmos, ministrada pelo professor Gustavo Carvalho.
 
 📚 Livros
-Data Structures and Algorithm Analysis in C++ - Clifford A. Shaffer
-Introduction to the Design and Analysis of Algorithms - Anany Levitin
+- Data Structures and Algorithm Analysis in C++ - Clifford A. Shaffer
+- Introduction to the Design and Analysis of Algorithms - Anany Levitin
 
 
 📁 Estrutura do Repositório
-PDFs: Anotações ou códigos feitos nos estudos.
-vjude e iudex: Contém as soluções de problemas propostos ao longo da disciplina.
+- PDFs: Anotações ou códigos feitos nos estudos
+- vjude e iudex: Contém as soluções de problemas propostos ao longo da disciplina.
+
+
 🛠 Tecnologias e Linguagens:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
